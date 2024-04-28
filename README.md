@@ -29,7 +29,7 @@
 - The readme includes a summary of the most affected regions and the evolving impact of terrorism over time based on the analysis.
 ## 5. User-Friendly Design:
 ### - User-Friendly Dashboard:
--The dashboard is designed to be user-friendly and intuitive, with clear visualizations and interactive elements.
+- The dashboard is designed to be user-friendly and intuitive, with clear visualizations and interactive elements.
 ### - Appropriate Color Schemes and Layouts:
 - Color schemes and layouts have been chosen carefully to enhance clarity and ease of use for the end-user.
   
