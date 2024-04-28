@@ -35,7 +35,7 @@
   
 ## Visual Representation of Analysis:
 
-! [Terrorist Data Analysis Report](Terrorist Report.png)
+![Terrorist Data Analysis Report](Terrorist Report.png)
 
 ### Analysis Conclusion:
 
